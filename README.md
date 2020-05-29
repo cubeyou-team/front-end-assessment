@@ -28,11 +28,7 @@ Once the user has found the player, after clicking on it, is brought to a detail
 
 ## Submission
 
-You can submit your work through:
-
-- [GitHub](https://github.com)
-- [CodeSandbox](https://codesandbox.io)
-- ...other
+You can submit your work through a [GitHub](https://github.com) repository.
 
 The code must be available to us in order to evaluate your submission.
 
