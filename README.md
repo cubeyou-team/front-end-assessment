@@ -15,6 +15,8 @@ Endpoints needed to complete the assessment:
 - Player stats: GET https://www.balldontlie.io/api/v1/season_averages
 - Player pic: GET https://nba-players.herokuapp.com/players/{last_name}/{first_name}
 
+In order to speed up development, if you need to, you can use any react components libray like ant, Material UI or the one that satisfies you most.
+
 ## Tasks
 
 We want to have an homepage with a search input that lets the user search for a specific player.
