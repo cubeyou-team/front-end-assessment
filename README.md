@@ -17,7 +17,7 @@ Endpoints needed to complete the assessment:
 
 ## Tasks
 
-We want to have an homepage with a search input that let the user search for a specific player.
+We want to have an homepage with a search input that lets the user search for a specific player.
 Once the user has found the player, after clicking on it, is brought to a detail page of the player where he will be able to find:
 
 - Generic info of the player (The ones given from the api)
