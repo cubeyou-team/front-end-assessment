@@ -6,7 +6,7 @@ Fot this assessment it is not important to have a great UI in terms of design, b
 
 ## Introduction
 
-For this assignment what you will build is a single pgae application with React for querying a dataset of NBA players and their stats.
+For this assignment what you will build is a single page application with React for querying a dataset of NBA players and their stats.
 
 You will consume this free API: https://www.balldontlie.io/
 
