@@ -38,7 +38,7 @@ The code must be available to us in order to evaluate your submission.
 
 Our goal is to find answers to those questions:
 
+- Do you master React and its ecosystem?
 - Can you design interfaces that are clear and easy to use?
 - Do you master your working environment?
 - Can your write code that is clean, readable and efficent?
-- Do you master Reac and its ecosystem?
