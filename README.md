@@ -36,7 +36,7 @@ The code must be available to us in order to evaluate your submission.
 
 ## Evaluation
 
-Our goal is to find answers to those questions:
+Our goal is to find answers to these questions:
 
 - Do you master React and its ecosystem?
 - Can you design interfaces that are clear and easy to use?
