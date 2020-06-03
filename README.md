@@ -15,7 +15,7 @@ Endpoints needed to complete the assessment:
 - Player stats: GET https://www.balldontlie.io/api/v1/season_averages
 - Player pic: GET https://nba-players.herokuapp.com/players/{last_name}/{first_name} (You will have to manage the not found case)
 
-In order to speed up development, if you need to, you can use any react components libray like ant, Material UI or the one that satisfies you most.
+In order to speed up development, if you need to, you can use any react components library like ant, Material UI or the one that satisfies you most.
 
 ## Tasks
 
