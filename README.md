@@ -20,11 +20,11 @@ In order to speed up development, if you need to, you can use any react componen
 ## Tasks
 
 We want to have an homepage with a search input that lets the user search for a specific player.
-Once the user has found the player, after clicking on it, is brought to a detail page of the player where he will be able to find:
+Once the user has found the player, after clicking on it, is brought to a detail page of the player where he will be able to see the generic info of the player (the ones we get from the players list api).
 
-- Generic info of the player (The ones we get from the api)
-- A Picture of the player
-- The Player's season averages stats
+If you are willing to go the extra mile, you could extend the detail page to include also the following information:
+- A picture of the player
+- The player's season averages stats
 
 ## Submission
 
